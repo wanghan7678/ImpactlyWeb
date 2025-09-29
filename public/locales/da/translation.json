@@ -1,0 +1,1477 @@
+{
+  "keywords": {
+    "delete": "slet",
+    "da": "Dansk",
+    "en": "Engelsk"
+  },
+  "navigationMain": {
+    "SearchProject": "Søg projekter",
+    "Reporting": "Rapportering",
+    "Strategies": "Strategier",
+    "Citizens": "Borgere",
+    "Users": "Medarbejder",
+    "SROI": "SROI rapport",
+    "Analytics": "Impact Analytics",
+    "AnalyticsV2": "Impact Analytics V2.0",
+    "Activity": "Aktivitet",
+    "Surveys": "Spørgeskemaer",
+    "Activities": "Aktiviteter",
+    "Project": "Projektindstillinger",
+    "Profile": "Brugerindstillinger"
+  },
+  "PageNotFound": {
+    "notFound": "404. Siden findes ikke",
+    "notFoundDescription": "Vi kunne desværre ikke finde den side, du ledte efter.",
+    "back": "Tilbage"
+  },
+  "HomeBasePage": {
+    "title": "Projekt",
+    "exportData": "Eksporter data"
+  },
+  "LoginPage": {
+    "login": "Log ind",
+    "email": "Email",
+    "password": "Adgangskode",
+    "hidePassword": "Skjul adgangskode",
+    "showPassword": "Vis adganskode",
+    "rememberMe": "Husk mig",
+    "forgotPassword": "Glemt din adgangskode?"
+  },
+  "ForgotPassword": {
+    "resetPassword": "Nulstil adgangskode",
+    "enterYourEmail": "Indtast din email, så sender vi dig instruktioner til at nulstille din adgangskode.",
+    "weHaveSentYouEmail": "Vi har sendt dig en mail med information om hvordan du nulstiller din adgangskode",
+    "back": "Tilbage"
+  },
+  "MePage": {
+    "myProfile": "Min profil",
+    "userRole": "Dit brugerniveau er: {{userRole}}",
+    "createdDate": "Oprettet d. {{createdDate}}",
+    "projects": "Projekter",
+    "projectsDescription": "Her ser du dine tilknyttede projekter",
+    "logout": "Log ud"
+  },
+  "tokenExpiration": {
+    "sessionExtendSuccessMessage": "Din session er blevet forlænget.",
+    "sessionExtendErrorMessage": "Kunne ikke forlænge sessionen. Log venligst ind igen.",
+    "sessionExpiredMessage": "Din session er udløbet. Log venligst ind igen.",
+    "sessionExpirationConfirmation": "Din session udløber snart. Ønsker du at forlænge den?"
+  },
+  "SubscriptionPlans": {
+    "starterPlan": {
+      "plan": "Starter",
+      "solutionTypeStarter": "Du er på vores Starter løsning",
+      "solutionTypeStarter_plural": "I er på vores Starter løsning",
+      "upgrade": "Har du lyst til at gå fra Starter til Premium? Ring til Anton, så vil han hjælpe dig med at komme i gang."
+    },
+    "premiumPlan": {
+      "solutionTypePremium": "Du er på vores Premium løsning og blev oprettet ",
+      "solutionTypePremium_plural": "I er på vores Premium løsning og blev oprettet ",
+      "createdAt": "createdAtPlaceholder"
+    },
+    "employeesChip": "{{count}} medarbejdere",
+    "citizensChip": "{{count}} borgere"
+  },
+  "Tags": {
+    "title": "Tags",
+    "noTags": "Der er ikke oprettet nogen tags endnu",
+    "removeTags": "Fjern tags ved at klikke på deres kryds",
+    "removeTagTooltip": "Fjern \"{{tagName}}\" tag",
+    "selectedTagDeleted": "\"{{selectedTag}}\" bliver slettet, det kan tage noget tid"
+  },
+  "Support": {
+    "title": "Support",
+    "availability": "Daniel er tilgængelig på mail hverdage 10:00-16:00",
+    "email": "daniel@impactly.dk",
+    "copied": "Kopieret"
+  },
+  "PremiumContact": {
+    "phoneNumber": "20729960"
+  },
+  "CustomizeTheme": {
+    "title": "Tilpas tema",
+    "saveButton": "Gem",
+    "subtitle": "Skift standardfarver på grafer og lignende elementer. Bruge Hex formatet som input",
+    "colorLabel": "Farve {{index}}",
+    "themeSaved": "Tema gemt",
+    "duplicateValue": "Der er en dubletværdi"
+  },
+  "CommunicationToCitizens": {
+    "title": "Kommunikation til borgere",
+    "subtitle": "Tilpas de e-mails og sms'er, som sendes til borgerene",
+    "snackbarSavedText": "Den nye tekst er gemt"
+  },
+  "WelcomeEmailSMS": {
+    "title": "Velkomst-email/SMS",
+    "charactersRemaining": "Tegn tilbage:",
+    "opening": "Kære [Borgerens navn]",
+    "label": "Velkomst email/sms tekst",
+    "closing": "Hilsen [projektets navn]"
+  },
+  "SurveyEmailSMS": {
+    "title": "Spørgeskema-email/SMS",
+    "label": "Spørgeskema email/sms tekst",
+    "link": "Link"
+  },
+  "ActionButtons": {
+    "reset": "Slet",
+    "save": "Gem",
+    "edit": "Redigere",
+    "close": "Luk",
+    "continue": "Næste"
+  },
+  "LanguageSelector": {
+    "label": "UI sprog(påvirker kun mig)",
+    "optionEnglish": "English",
+    "optionDanish": "Dansk"
+  },
+  "ConfirmDialog": {
+    "title": "Slet tag",
+    "message": "Er du sikker på at du vil slette dette tag? Når du sletter det, vil det blive fjernet fra alle borgerne og alle rapporter. Dette kan ikke laves om",
+    "yes": "Ja",
+    "no": "Nej"
+  },
+  "ExportDialog": {
+    "title": "Eksporter data",
+    "description": "Sendt til din e-mail efter bekræftelse (1-3 min.)",
+    "fileNameLabel": "Filnavn",
+    "sortingLabel": "Sorting",
+    "formatLabel": "Format",
+    "simplified": "Simpelt",
+    "raw": "Rådata",
+    "exportAllData": "Eksporter alle datatyper og værdier:",
+    "tooltip": "Du kan vælge at eksportere alt din data (brug slideren til højre), eller du kan vælge specifikke typer data nedenfor",
+    "dataTypesLabel": "Typer af data",
+    "allSelected": "Alle valgte",
+    "columnsLabel": "Kolonner i din data eksport",
+    "alertMessage": "Sendes til din email indenfor 1-3 minutter",
+    "confirmButton": "Bekræft",
+    "successSnackbar": "Vi har sendt dig en mail, du kan nu lukke vinduet.",
+    "errorSnackbar": "Du kan ikke sende en export forespørgelse uden at give en dato"
+  },
+  "PatientListPage": {
+    "search": "Søg...",
+    "name": "Navn",
+    "contact": "Kontakt",
+    "sex": "Køn",
+    "age": "Alder",
+    "municipality": "Kommune",
+    "lastAnswered": "Sidst besvaret",
+    "strategy": "Strategi",
+    "status": "Status",
+    "tags": "Tags",
+    "create": "Opret",
+    "importData": "Importer data",
+    "anonymize": "Anonymiser",
+    "deAnonymize": "De-anonymisere",
+    "deactivate": "Deaktiver",
+    "activate": "Aktiver",
+    "active": "Aktiv",
+    "inactive": "Inaktiv",
+    "showAllCitizens": "Vis alle borgere",
+    "showOnlyActive": "Vis kun aktive",
+    "filteringOn": "Filtrerer på",
+    "noCitizens": "Ingen borgere",
+    "createACitizen": "Opret en borger og start indsamling af data",
+    "createACitizenButton": "Opret borger",
+    "editCitizen": "Ret borger",
+    "createRegistration": "Opret registrering",
+    "areYouSure": "Er du sikker?",
+    "anonymizeWarning": "Ved at fortsætte vil navnet og kontaktoplysningerne (telefon og e-mail) for denne borger blive skjult for alle ikke-administratorbrugere. Kun administratorbrugere kan omgøre denne handling.",
+    "deAnonymizeWarning": "Ved at fortsætte vil navnet og kontaktoplysningerne (telefon og e-mail) for de valgte borgere blive synlige. Alle brugere på dette projekt vil kunne se disse i øjeblikket skjulte oplysninger.",
+    "deactivateWarning": "Ved at fortsætte vil de valgte borgere blive deaktiveret. De vil ikke længere kunne modtage spørgeskemaer og besvares dem.",
+    "reactivateWarning": "Ved at fortsætte vil de valgte borgere blive reaktiveret. De vil kunne modtage spørgeskemaer og besvares dem igen.",
+    "requestedActionPatients": "Du har valgt {{selectedNumber}} borger."
+  },
+  "PatientCrudDialog": {
+    "titleEdit": "Rediger borger",
+    "titleNew": "Registrer ny borger",
+    "firstName": "Fornavn",
+    "lastName": "Efternavn",
+    "email": "Email",
+    "phoneNumber": "Telefonnr.",
+    "defaultSMS": "Spørgeskemaer sendes som standard via SMS, hvis tlfnr. ikke udfyldes bruges der Email",
+    "sex": "Køn",
+    "male": "Han",
+    "female": "Hun",
+    "other": "Andet",
+    "birthDate": "Fødselsdag",
+    "postNumber": "Postnummer",
+    "notEmpty": "Skriv noget",
+    "noOptions": "Ingen muligheder",
+    "municipality": "Kommune",
+    "region": "Region",
+    "active": "Aktiv"
+  },
+  "Validators": {
+    "fieldIsRequired": "Dette felt er påkrævet.",
+    "invalidEmail": "Emailen er ikke gyldig.",
+    "invalidPhoneNumber": "Telefonnummeret er ikke gyldig.",
+    "passwordTooShort": "Adgangskoden skal være længere end 6 tegn.",
+    "passwordTooLong": "Adgangskoden skal være kortere end 64 tegn.",
+    "passwordMustHaveNumber": "Adgangskoden skal indeholde mindst ét nummer.",
+    "passwordMustHaveCapitalLetter": "Adgangskoden skal indeholde mindst ét stort bogstav.",
+    "passwordsMustMatch": "De indtastede adgangskoder er ikke ens.",
+    "dateCannotBeInFuture": "Datoen kan ikke være i fremtiden.",
+    "invalidDate": "Datoen er ikke gyldig.",
+    "requiredDate": "Datoen er påkrævet."
+  },
+  "CrudDialog": {
+    "delete": "Slet",
+    "cancel": "Annuller",
+    "execute": "Udfør",
+    "areYouSure": "Du er ved at slette dette element. Er du sikker på at dette er den ønskede handling?",
+    "criticalAction": "Denne handling er meget kritisk og kan ikke gøres om!",
+    "enterElementName": "Bekræft ved at indtaste navnet af elementet:",
+    "enterConfirmText": "Bekræft ved at indtaste 'slet' i feltet."
+  },
+  "RegisterDialog": {
+    "titleEdit": "Rediger registrering",
+    "titleNew": "Opret ny registrering",
+    "date": "Dato",
+    "registrationType": "Registreringtype",
+    "statusCategory": "Statuskategori",
+    "statuses": "Statusser",
+    "registration": "Registrering",
+    "value": "Værdi",
+    "note": "Note",
+    "snackbarNoMatchReg": "Ingen matchende registrering",
+    "snackError": "Der opstod en fejl under oprettelsen af registreringen.",
+    "cancel": "Cancel",
+    "save": "Udfør"
+  },
+  "ImportDialog": {
+    "title": "Importer data",
+    "message": "Du er ved at importere data til Impactly. For at kunne importere i korrekt format, anbefales det, at du bruger den medfølgende skabelon. Du finder skabelonen ved at klikke på \"Importer data\"."
+  },
+  "Notifications": {
+    "patientName": "Navn",
+    "surveyName": "Spørgeskema",
+    "sendOutDate": "Sendt",
+    "reminderSent": "Påmindelse sendt",
+    "remind": "Påmind",
+    "deleteAllSuccessful": "{{notification Counts}} underretninger er blevet fjernet.",
+    "deleteAllFailed": "Kunne ikke fjerne nogen notifikation.",
+    "deleteAllNeutral": "Intet at fjerne her!",
+    "resend": "Gensend spørgeskema",
+    "remindAll": "Påmind alle",
+    "deleteAll": "Slet alt",
+    "noActivities": "Ingen aktiviteter",
+    "deleteAllActivityTitle": "Slet alt",
+    "deleteActivityTitle": "Slet aktivitet",
+    "deleteActivityDescription": "Du har valgt permanent at slette rykkeren med udsendelsestidspunkt {sendOutDate}, for borgeren {patientName}. Hvis du fortsætter, kan du ikke længere sende påmindelser om denne udsendelse eller se nogen meddelelser om den. Borgeren kan dog stadig besvare udsendelsen på eget initiativ.",
+    "deleteAllActivityDescription": "Du har valgt at slette {{notificationCounts}} notifications permanent. Vil du fortsætte?",
+    "snackbarSuccessRemindersSent": "Påmindelser sendt",
+    "snackbarInfoNoReminders": "Der er ikke nogle Påmindelser der er klar til at blive sendt"
+  },
+  "Surveys": {
+    "projectQuestionnaires": "Projekt spørgeskemaer",
+    "clickToViewQuestionnaire": "Klik på det spørgeskema, du ønsker at se",
+    "noSurveySelected": "Intet spørgeskema er valgt",
+    "validated": "Valideret"
+  },
+  "SurveyBuilder": {
+    "title": "Spørgeskemaer",
+    "editBtn": "Rediger",
+    "addBtn": "Tilføj ny",
+    "backBtn": "Tilbage",
+    "resetBtn": "Nulstil",
+    "notEmphty": "Kan ikke være tom",
+    "listTitle": "Projektets spørgeskemaer",
+    "listSubHeader": "Klik på det spørgeskema, du ønsker at se",
+    "search": "Søg",
+    "filter": "Filter",
+    "filterValidated": "Validerede",
+    "filterCustomSurvey": "Brugerdefinerede",
+    "validated": "Valideret",
+    "question": "Spørgsmål",
+    "deletedQuestion": "Slet spørgsmål",
+    "deletedOption": "Slet mulighed",
+    "deletedQuestionMsg": "Er du sikker på at du vil slette spørgsmålet?",
+    "freeText": "Tekst",
+    "separatorText": "Skiller",
+    "questionOptions": "Spørgsmål (valgmuligheder)",
+    "likertLanguageNotice": "Sproget for de følgende valgmuligheder er indstillet til {{lang}} baseret på projektets sprogindstillinger.",
+    "likertOptions": "Spørgsmål (likert skala - {{lang}})",
+    "name": "Navn",
+    "longName": "Langt navn",
+    "description": "Beskrivelse",
+    "DefaultQuestionName": "Unavngivet spørgsmål",
+    "options": "Valgmulighed {{number}}",
+    "addOption": "Tilføj valgmulighed",
+    "inUse": "Spørgeskemaet er i brug",
+    "inUseModalDescription": "Dette spørgeskema er i øjeblikket i brug i en strategi, og en ændring i indholdet kan påvirke nøjagtigheden af de indsamlede data.",
+    "inUseModalDescription2": "Derfor anbefaler vi på det kraftigste ikke at redigere et spørgeskema, før eventuelle aktive dataindsamlinger er afsluttet, og ingen nye dataindsamlinger ved hjælp af spørgeskemaet er startet.",
+    "inUseModalCancel": "Annuller",
+    "inUseModalConfirm": "Bekræft",
+    "inUseSave": "Dette spørgeskema er i øjeblikket i brug i en strategi, og en ændring i indholdet kan påvirke nøjagtigheden af de indsamlede data.",
+    "inUseSave2": "Derfor anbefaler vi på det kraftigste ikke at redigerer et spørgeskema, før eventuelle aktive dataindsamlinger er afsluttet, og ingen nye dataindsamlinger ved hjælp af spørgeskemaet er startet. Vil du fortsætte?",
+    "cantNavigateAwaySaveChanges": "Gem ændringer?",
+    "cantNavigateAwayDescription": "Du forsøger at navigere væk fra et spørgeskema, du er i gang med at redigere. Skal du gemme dine ændringer, før du fortsætter eller kassere dem?",
+    "cantNavigateAwayBtnDiscard": "Kassér",
+    "cantNavigateAwayBtnSave": "Gem",
+    "deleteBtn": "Slet",
+    "deleteDialogTitle": "Slet spørgeskema?",
+    "deleteDialogMessage": "Du er i færd med at slette dette spørgeskema. Dette er en kritisk handling!",
+    "deleteFieldDialogMessage": "Du er i færd med at slette dette spørgsmål. Dette er en kritisk handling!",
+    "deleteChoiceDialogMessage": "Du er i færd med at slette dette valg. Dette er en kritisk handling!",
+    "deleteDialogMessage2": "Hvis du har samlet data ind med spørgeskemaet, så slettes ALT denne data. Er du sikker på, at du vil fortsætte?",
+    "deleteDialogElementName": "bekræft ved at skrive navnet på spørgeskemaet:",
+    "filterNone": "Alt",
+    "newSurveyAnswer": "Skriv din overskrift her",
+    "newSurveyAnswerOption": "Valgmulighed 1",
+    "newSurveySeparator": "Skriv din tekst her, f.eks. fortæl respondenterne hvad de kan forvente i de næste spørgsmål.",
+    "separator": "Overskrift",
+    "customizeLabelsTitle": "Tilpas etiketter",
+    "customizeLabelsSubTitle": "Modificer diagrammeretiketterne",
+    "currentLabels": "Nuværende etiketter",
+    "defaultScale": "Standard",
+    "likertScale": "Likert",
+    "surveyScale": "Skalatype",
+    "likertScaleChoiceAmount": "Skala Muligheder",
+    "isNeutralLabel": "Spring neutrale værdier over? ",
+    "scaleCategory": {
+      "label": "Skalakategori",
+      "menuItems": ["Enighed", "Tilfredshed", "Frekvens", "Vigtighed", "Grad"]
+    },
+    "scales": {
+      "Likert": {
+        "2": {
+          "agreement": ["Enig", "Uenig"],
+          "satisfaction": ["Tilfreds", "Utilfreds"],
+          "frequency": ["Altid", "Aldrig"],
+          "importance": ["Vigtigt", "Ikke vigtigt"],
+          "degree": ["I høj grad", "I lav grad"]
+        },
+        "3": {
+          "agreement": ["Enig", "Neutral", "Uenig"],
+          "satisfaction": ["Tilfreds", "Neutral", "Utilfreds"],
+          "frequency": ["Altid", "Nogle gange", "Aldrig"],
+          "importance": ["Vigtigt", "Neutral", "Ikke vigtigt"],
+          "degree": ["I høj grad", "Neutral", "I lav grad"]
+        },
+        "4": {
+          "agreement": ["Meget enig", "Enig", "Uenig", "Meget uenig"],
+          "satisfaction": [
+            "Meget tilfreds",
+            "Tilfreds",
+            "Utilfreds",
+            "Meget utilfreds"
+          ],
+          "frequency": ["Altid", "Ofte", "Sjældent", "Aldrig"],
+          "importance": [
+            "Meget vigtigt",
+            "Nogenlunde vigtigt",
+            "Ikke særlig vigtigt",
+            "Slet ikke vigtigt"
+          ],
+          "degree": [
+            "I meget høj grad",
+            "I høj grad",
+            "I lav grad",
+            "I meget lav grad"
+          ]
+        },
+        "5": {
+          "agreement": [
+            "Meget enig",
+            "Enig",
+            "Neutral",
+            "Uenig",
+            "Meget uenig"
+          ],
+          "satisfaction": [
+            "Meget tilfreds",
+            "Tilfreds",
+            "Neutral",
+            "Utilfreds",
+            "Meget utilfreds"
+          ],
+          "frequency": ["Altid", "Ofte", "Nogle gange", "Sjældent", "Aldrig"],
+          "importance": [
+            "Meget vigtigt",
+            "Nogenlunde vigtigt",
+            "Moderat vigtigt",
+            "Ikke særlig vigtigt",
+            "Slet ikke vigtigt"
+          ],
+          "degree": [
+            "I meget høj grad",
+            "I høj grad",
+            "I nogen grad",
+            "I lav grad",
+            "I meget lav grad"
+          ]
+        },
+        "6": {
+          "agreement": [
+            "Meget enig",
+            "Nogenlunde enig",
+            "Lidt enig",
+            "Lidt uenig",
+            "Nogenlunde uenig",
+            "Meget uenig"
+          ],
+          "satisfaction": [
+            "Meget tilfreds",
+            "Nogenlunde tilfreds",
+            "Lidt tilfreds",
+            "Lidt utilfreds",
+            "Nogenlunde utilfreds",
+            "Meget utilfreds"
+          ],
+          "frequency": [
+            "Altid",
+            "Meget ofte",
+            "Ofte",
+            "Sjældent",
+            "Meget sjældent",
+            "Aldrig"
+          ],
+          "importance": [
+            "Meget vigtigt",
+            "Vigtigt",
+            "Moderat vigtigt",
+            "Lidt vigtigt",
+            "Meget lidt vigtigt",
+            "Slet ikke vigtigt"
+          ],
+          "degree": [
+            "I meget høj grad",
+            "I høj grad",
+            "I nogenlunde høj grad",
+            "I nogenlunde lav grad",
+            "I lav grad",
+            "I meget lav grad"
+          ]
+        },
+        "7": {
+          "agreement": [
+            "Meget enig",
+            "Nogenlunde enig",
+            "Lidt enig",
+            "Neutral",
+            "Lidt uenig",
+            "Nogenlunde uenig",
+            "Meget uenig"
+          ],
+          "satisfaction": [
+            "Meget tilfreds",
+            "Nogenlunde tilfreds",
+            "Lidt tilfreds",
+            "Neutral",
+            "Lidt utilfreds",
+            "Nogenlunde utilfreds",
+            "Meget utilfreds"
+          ],
+          "frequency": [
+            "Altid",
+            "Meget ofte",
+            "Ofte",
+            "Nogle gange",
+            "Sjældent",
+            "Meget sjældent",
+            "Aldrig"
+          ],
+          "importance": [
+            "Ekstremt vigtigt",
+            "Meget vigtigt",
+            "Ganske vigtigt",
+            "Neutral",
+            "Lidt vigtigt",
+            "Meget lidt vigtigt",
+            "Slet ikke vigtigt"
+          ],
+          "degree": [
+            "I meget høj grad",
+            "I høj grad",
+            "I nogenlunde høj grad",
+            "Neutral",
+            "I nogenlunde lav grad",
+            "I lav grad",
+            "I meget lav grad"
+          ]
+        }
+      }
+    }
+  },
+  "Users": {
+    "name": "Navn",
+    "email": "Email",
+    "phoneNumber": "Telefonnr.",
+    "roleType": "Rolletype",
+    "noUsers": "Ingen brugere",
+    "noUsersOnProject": "Der er ingen brugere på projektet",
+    "createUser": "Opret bruger",
+    "create": "Opret",
+    "resendInvitation": "Gensend invitation",
+    "colleagueInvited": "Din kollega er nu inviteret til Impactly",
+    "editEmployee": "Rediger medarbejder",
+    "registerNewEmployee": "Registrer ny medarbejder",
+    "firstName": "Fornavn",
+    "secondName": "Efternavn",
+    "snackbarSuccess": "Invitationen er blevet gensendt"
+  },
+  "StrategiesPage": {
+    "create": "Opret",
+    "noStrategies": "Ingen strategier",
+    "weHelpYouSetUp": "Vi hjælper dig hele vejen igennem opsættelsen",
+    "createStrategy": "Opret strategi",
+    "deleteStrategyIconLabel": "Slet strategi",
+    "deleteStrategy": "Kritisk handling!",
+    "deleteAreYouSure": "Er du sikker på, at du vil slette denne strategi? Hvis du sletter strategien, vil ALT data indsamlet via denne strategi blive slettet. Det samme gælder rapportmoduler oprettet med denne strategi. Fortsæt?",
+    "survey_one": "{{count}} spørgeskema",
+    "survey_other": "{{count}} spørgeskemaer",
+    "registration_one": "{{count}} registrering",
+    "registration_other": "{{count}} registreringer",
+    "citizen_one": "{{count}} borger",
+    "citizen_other": "{{count}} borgere",
+    "sendout_one": "{{count}} udsendelser",
+    "sendout_other": "{{count}} udsendelser"
+  },
+  "StrategyFlowPage": {
+    "surveys": "Spørgeskemaer",
+    "participants": "Deltager",
+    "sendouts": "Udsendelser",
+    "registrations": "Registreringer",
+    "createStrategy": "Opret strategi",
+    "continueWithoutSave": "Du er ved at forlade uden at gemme!",
+    "promptContinue": "Er du sikker på, at du vil forlade uden at gemme?",
+    "cancel": "Annuller",
+    "back": "Tilbage",
+    "ready": "Færdiggør",
+    "next": "Næste",
+    "namePrompt": "Navngiv din strategi",
+    "nameLabel": "Navn",
+    "validated": "Valideret",
+    "SendoutDialog": {
+      "titleSurvey": "Tilføj spørgeskemaer",
+      "descriptionSurvey": "Vælg et eller flere spørgeskemaer til udsendelse",
+      "titlePatients": "Tilføj borgere til udsendelse",
+      "descriptionPatients": "Vælg borgere at sende ud til",
+      "titleSendoutType": "Vælg rækkefølge og type",
+      "descriptionSendoutType": "I hvilken rækkefølge, og hvornår skal de besvares?",
+      "titleFrequencyType": "Indstil din udsendelse",
+      "descriptionFrequencyType": "Vælg frekvens og tidspunkt for udsendelsen."
+    },
+    "StrategyCreationSurveyView": {
+      "name": "Navn",
+      "resetStep": "NULSTIL TRIN",
+      "back": "TILBAGE",
+      "next": "Næste"
+    },
+    "StrategyCreationPatientsView": {
+      "filterName": "Filtrer efter navn",
+      "filterTags": "Filtrer på tags",
+      "name": "Navn",
+      "tags": "Tags",
+      "resetStep": "NULSTIL TRIN",
+      "back": "TILBAGE",
+      "next": "Næste"
+    },
+    "StrategyCreationSendoutTypeView": {
+      "chosenSurveys": "Udvalgte spørgeskemaer",
+      "back": "TILBAGE",
+      "next": "Næste"
+    },
+    "StrategyCreationFrequencyTypeView": {
+      "chosenFrequency": "Vælg hvilke frekvenser og specifikke tidspunkter udsendelsen skal sendes på.",
+      "back": "TILBAGE",
+      "save": "Udfør",
+      "resetStep": "NULSTIL TRIN",
+      "sendEvery": "Udsend hver:",
+      "day": "dag",
+      "week": "uge",
+      "month": "måned",
+      "time": "Klokken:",
+      "endAfter": "Slutter efter:",
+      "whenCompleted": "Når forløb afsluttes",
+      "numberSendouts": "Antal udsendelser",
+      "sendouts": "Udsendelser"
+    },
+    "FrequencyView": {
+      "time": "Tidspunkt",
+      "surveys": "Spørgeskemaer",
+      "participant": "Deltager",
+      "createSendout": "Opret udsendelse",
+      "untilCompleted": " indtil forløb afsluttes",
+      "untilNumberSendouts": " indtil {{number}}. udsendelser",
+      "everyNthWeek": "hver {{nthWeek}}. uge"
+    }
+  },
+  "StrategyCommunication": {
+    "sent": "Udsendt d.",
+    "frequencies": "Udsendelser",
+    "subtitleFrequency": "Se hvornår en samling af jeres valgte spørgeskemaer bliver sendt ud til de tilknyttede borger",
+    "edit": "Redigere",
+    "delete": "Slet",
+    "citizens": "Borger",
+    "citizensListTitle": "Borger Liste",
+    "confirmDeleteTitle": "Slet",
+    "confirmDeleteMessage": "Er du sikker på, at du vil slette denne historiske udsendelse?",
+    "sendoutsNonEditable": "Det er ikke muligt at redigere de øjeblikkelige udsendelser.",
+    "sendoutRemoved": "Den historiske udsendelse er blevet fjernet"
+  },
+  "StrategyBatchRegistrations": {
+    "registrationRemoved": "Registrering er blevet fjernet!",
+    "regCreated": "Registrerings effekten er oprettet",
+    "regUpdated": "Registreringseffekten er blevet opdateret",
+    "registrations": "Registreringer",
+    "registrationsSubtitle": "Se hvad der kan registreres for borgere",
+    "numeric": "Numerisk",
+    "incident": "Hændelse",
+    "status": "Status",
+    "register": "Registrér",
+    "rename": "Omdøb",
+    "delete": "Slet",
+    "deleteTitle": "Slet",
+    "deleteMessage": "Er du sikker på, at du vil slette denne historiske udsendelse?",
+    "editNumericTitle": "Rediger Numerisk Navn",
+    "editIncidentTitle": "Rediger Hændelse Navn",
+    "editStatusTitle": "Rediger Status Navn",
+    "editNameLabel": "Rediger navn",
+    "editNameStatusLabel": "Rediger navn: Status #{{index}}",
+    "resetButton": "Nulstil",
+    "editButton": "Redigere",
+    "createRegistration": "Opret registrering",
+    "selectTypeAndName": "Vælg type og navngiv den registrering, som I gerne vil lave på borgerne",
+    "selectTypeLabel": "Vælg type",
+    "nameOfStatusCategory": "Navngiv statuskategori",
+    "nameOfRegistration": "Navngiv registrering",
+    "noOptions": "Ingen muligheder"
+  },
+  "RegistrationFlowPage": {
+    "chooseCitizens": "Vælg borgere",
+    "addDate": "Tilføj dato",
+    "reviewAndConfirm": "Gennemgå og bekræft",
+    "numericRegistration": "Numerisk registrering: ",
+    "incidentRegistration": "Hændelsesregistrering: ",
+    "statusRegistration": "Statusregistrering: ",
+    "confirmationDialogTitle": "Bekræft Registrering",
+    "confirmationDialogDescription": "Er du sikker på, at du vil fuldføre registreringen?",
+    "successSnackbar_one": "{{count}} deltager registreret",
+    "successSnackbar_other": "{{count}} deltagere registreret",
+    "errorSnackbar": "There was an error with the registration.",
+    "ChooseCitizens": {
+      "name": "Navn",
+      "status": "Status",
+      "registered": "Registreret",
+      "unregistered": "Uregistreret",
+      "tags": "Tags",
+      "note": "Note",
+      "filterByName": "Filtrer efter navn",
+      "filterByTags": "Filtrer på tags",
+      "selectedCitizens_one": "{{count}} borger udvalgt",
+      "selectedCitizens_other": "{{count}} borgere udvalgt",
+      "previousButton": "TILBAGE",
+      "nextButton": "Næste"
+    },
+    "AddDate": {
+      "registrationDate": "Registreringsdato",
+      "changeDate": "ændre dato",
+      "registrationValue": "Registreringsværdi",
+      "back": "TILBAGE",
+      "next": "Næste"
+    }
+  },
+  "CommunicationFlowPage": {
+    "addSurveyTitle": "Tilføj spørgeskemaer",
+    "addSurveyDescription": "Vælg et eller flere spørgeskemaer til udsendelse",
+    "addCitizensTitle": "Tilføj borgere til udsendelse",
+    "addCitizensDescription": "Vælg borgere at sende ud til",
+    "chooseOrderTitle": "Vælg rækkefølge og type",
+    "chooseOrderDescription": "I hvilken rækkefølge, og hvornår skal de besvares?",
+    "setupSendoutTitle": "Indstil din udsendelse",
+    "setupSendoutDescription": "Vælg frekvens og tidspunkt for udsendelsen",
+    "successfulSendout": "Udsendelsen af successfuldt sendt til {{count}} borgere",
+    "errorCreatingFrequency": "Der opstod en fejl ved oprettelsen af udsendelse",
+    "confirmSendoutTitle": "Bekræft udsendelse",
+    "closeDialog": "Er du sikker på, at du vil fuldføre udsendelsen?",
+    "confirmAndSaveSettings": "Er du sikker på, at du vil bekræfte indstillingerne og gemme udsendelsen?",
+    "immediateSendoutDescription": "Hvis du svarer “Ja”, sendes spørgeskemaerne til de valgte borgere med det samme.",
+    "StrategySurveyView": {
+      "name": "Navn",
+      "resetStep": "NULSTIL TRIN",
+      "back": "TILBAGE",
+      "next": "Næste"
+    },
+    "StrategyPatientsView": {
+      "name": "Navn",
+      "status": "Status",
+      "tags": "Tags",
+      "active": "Aktiv",
+      "inactive": "Inaktiv",
+      "filterName": "Filtrer efter navn",
+      "filterTag": "Filtrer på tags",
+      "selectedCitizens_one": "{{count}} borger udvalgt",
+      "selectedCitizens_other": "{{count}} borgere udvalgt",
+      "reset": "NULSTIL TRIN",
+      "back": "TILBAGE",
+      "next": "Næste"
+    },
+    "StrategySendoutTypeView": {
+      "frequency": "På bestemte dage med en bestemt frekvens",
+      "immediate": "Med det samme",
+      "selectedSurveys": "Udvalgte spørgeskemaer",
+      "chooseSendoutType": "Vælg udsendelsestype",
+      "back": "TILBAGE",
+      "next": "Næste"
+    },
+    "FrequencyTypeView": {
+      "invalidInterval": "Ugyldigt antal intervaller",
+      "invalidHour": "Ugyldigt time tal",
+      "invalidMinute": "Ugyldigt minut tal",
+      "chooseWeekdays": "Du skal vælge én eller flere ugedage",
+      "chooseDays": "Du skal vælge én eller flere dage",
+      "invalidOccurrences": "Ugyldigt antal udsendelser",
+      "selectTimes": "Vælg hvilke frekvenser og specifikke tidspunkter udsendelsen skal sendes på.",
+      "sendEvery": "Udsend hver:",
+      "time": "Klokken:",
+      "endsAfter": "Slutter efter:",
+      "whenRunsOut": "Når forløb afsluttes",
+      "occurrences": "Antal udsendelser",
+      "sendouts": "Udsendelser",
+      "reset": "NULSTIL TRIN",
+      "back": "TILBAGE",
+      "execute": "Udfør",
+      "daily": "dag",
+      "weekly": "uge",
+      "monthly": "måned"
+    },
+    "StrategyRegSendoutUpdateView": {
+      "registrationValue": "Registreringsværdi",
+      "registrationDate": "Registreringsdato",
+      "noOptions": "No Options",
+      "name": "Navn",
+      "registeredDate": "Registreret dato",
+      "note": "Note",
+      "value": "Værdi",
+      "status": "Status",
+      "missingValue": "Missing Value",
+      "back": "Back",
+      "next": "Next",
+      "cancelNote": "Cancel a Note",
+      "addNote": "Add a Note",
+      "add": "Add",
+      "execute": "Execute"
+    }
+  },
+  "StrategySurveys": {
+    "name": "Navn",
+    "validatedChip": "Valideret",
+    "inUseChip": "I udsendelse",
+    "surveyErrorMessage": "Det spørgeskema bliver brugt i én af udsendelserne",
+    "surveySuccessMessage": "Spørgeskemaer med succes tildelt til denne strategi",
+    "surveyHeading": "Spørgeskemaer",
+    "surveySubHeading": "Det er i alt disse spørgeskemaer",
+    "selectSurvey": "Vælg spørgeskemaer",
+    "applySelected": "Anvend valgte"
+  },
+  "StrategyPatients": {
+    "name": "Navn",
+    "title": "Borgere",
+    "noPatientsSubtitle": "Der er ingen borgere tilknyttet denne strategi. Tilføj dem her, eller gå ind på den enkelte borger",
+    "hasPatientsSubtitle": "Det er disse borgere, som er tilknyttet denne strategi",
+    "AddPatientsDialog": {
+      "addCitizens": "Tilføj borgere til ",
+      "addCitizensSubtitle": "Listen indeholder kun borgere som ikke allerede har en strategi",
+      "noCitizensAvailable": "Der er ingen borgere uden strategi",
+      "successSnackbar": "Borgere blev succesfuldt tilføjet",
+      "warningSnackbar": "{{error}} ud af {{count}} borgere blev ikke tilføjet korrekt",
+      "errorSnackbar": "Noget gik galt"
+    }
+  },
+  "PatientTableHeads": {
+    "name": "Navn",
+    "contact": "Kontakt",
+    "gender": "Køn",
+    "age": "Alder",
+    "municipality": "Kommune",
+    "lastAnswered": "Sidst besvaret",
+    "strategy": "Strategi",
+    "status": "Status",
+    "tags": "Tags",
+    "active": "Aktiv",
+    "inactive": "Inaktiv"
+  },
+  "ReportsPage": {
+    "reportCopy": "Kopi af {{reportName}}",
+    "createReport": "Opret rapport",
+    "noReports": "Ingen rapporter",
+    "seeAndShare": "Se og del indsamlet data",
+    "edited": "Redigeret {{date}}"
+  },
+  "timeAgo": {
+    "justNow": "lige nu",
+    "secondsAgo": "{{count}} sek siden",
+    "minuteAgo": "{{count}} min. siden",
+    "minutesAgo": "{{count}} min. siden",
+    "hourAgo": "{{count}} time siden",
+    "hoursAgo": "{{count}} timer siden",
+    "dayAgo": "1 dag siden",
+    "daysAgo": "{{count}} dage siden"
+  },
+  "ReportPage": {
+    "title": "Titel",
+    "add": "Tilføj",
+    "save": "Gem",
+    "delete": "Slet rapport",
+    "answerRate": "Svarrate: {{value}}",
+    "deleteMessage": "Er du sikker på, at du vil slette denne rapport?",
+    "continueWithoutSave": "Du er ved at forlade uden at gemme!",
+    "continiueConfirm": "Er du sikker på, at du vil forlade uden at gemme?",
+    "ShareReport": {
+      "reportNotSaved": "Rapporten skal først gemmes",
+      "shareReport": "Du kan nu dele rapporten!",
+      "linkCopied": "Link kopieret",
+      "linkLabel": "Link",
+      "shareButton": "Del"
+    },
+    "ModulePickerDialog": {
+      "title": "Konfigurer diagram",
+      "addModule": "Tilføj til rapport",
+      "updateModule": "Opdater rapport",
+      "back": "Tilbage",
+      "configureModule": "Konfigurer rapport",
+      "yourModuleIsNotImplemented": "Din rapport er ikke implementeret"
+    }
+  },
+  "ReportsIndex": {
+    "pointSystemTypeMap": {
+      "absoluteNumbers": "Absolutte tal",
+      "percentage": "Procent"
+    },
+    "graphTypeMap": {
+      "bar": "Bar",
+      "pie": "Pie"
+    },
+    "surveyStats": {
+      "title": "Valideret spørgeskema",
+      "description": "Gennemsnitlig score af valgte validerede spørgeskemaer"
+    },
+    "pictureUpload": {
+      "title": "Billede",
+      "description": "Upload et tilpasset billede til din rapport"
+    },
+    "freeText": {
+      "title": "Tekst",
+      "description": "Tilføj tilpasset tekst til din rapport"
+    },
+    "customDistribution": {
+      "title": "Spørgeskemaer",
+      "description": "Svarfordeling af egne spørgeskemaer"
+    },
+    "correlativeDistribution": {
+      "title": "Correlative Distribution",
+      "description": "Compare collected data from multiple surveys"
+    },
+    "statusDistribution": {
+      "title": "Statusregistreringer",
+      "description": "Viser fordeling på statuskategorier"
+    },
+    "numericalAverage": {
+      "title": "Numeriske registreringer",
+      "description": "Gennemsnit af numeriske registreringer"
+    },
+    "aggregatedCount": {
+      "title": "Hændelsesregistreringer",
+      "description": "Summeret antal af valgte hændelser"
+    }
+  },
+  "moduleConfigs": {
+    "questionType": "Vælg spørgsmålstype",
+    "back": "Tilbage",
+    "reset": "Nulstil",
+    "noStrategies": "Ingen strategier",
+    "noCountStrategies": "Ingen strategier med tælleregistreringer",
+    "generalTitle": "Generel",
+    "addTimeInterval": "+ Tilføj tidsinterval",
+    "addTimeQuestion": "+ Tilføj spørgsmål",
+    "customization": "Tilpasning",
+    "selectStrategy": "Vælg strategi",
+    "filterOnTags": "Filtrer på tags",
+    "selectRegistration": "Vælg registrering",
+    "selectSurvey": "Vælg spørgeskema",
+    "selectQuestion": "Select spørgsmål",
+    "selectQuestionType": "Vælg spørgsmålstype",
+    "name": "Navngiv",
+    "showEmptyDataPoints": "Vis tomme datapunkter",
+    "doNotShowEmptyDataPoints": "Vis ikke tomme datapunkter",
+    "emptyViewTitle": "Ingen registreringer",
+    "chooseTimePeriod": "Vælg tidsperiode",
+    "start": "Start",
+    "end": "Slut",
+    "chooseStartDate": "Vælg startdato",
+    "chooseEndDate": "Vælg slutdato",
+    "invalidDateMessage": "Ugyldig dato",
+    "minDateMessage": "Det valgte år bør være senere",
+    "maxDateMessage": "Dato bør være før dags dato",
+    "chooseFrequency": "Vælg frekvens",
+    "noSurveys": "Ingen spørgeskemaer",
+    "timeInterval": "Tidsserie {{count}}",
+    "averageScore": "Gns. score",
+    "quantity": "Antal",
+    "delete": "Slet",
+    "edit": "Rediger",
+    "editLabels": "Rediger etiket",
+    "copy": "Dupliker",
+    "export": "Eksporter",
+    "noCustomSurveys": "Ingen egenproduceret spørgeskemaer",
+    "noStrategyWithCustom": "Ingen strategier med egen spørgeskemaer",
+    "noStrategyWithValidated": "Ingen strategier med validerede spørgeskemaer",
+    "diagramType": "Diagramtype",
+    "chooseQuestion": "Vælg spørgsmål",
+    "chooseXaxis": "X-akse type",
+    "choices": "Valg",
+    "periods": "Perioder",
+    "numberPercentage": "Tal/procent",
+    "title": "Titel",
+    "noStrategyWithNumeric": "Ingen strategier med numeriske registreringer",
+    "averageValue": "Gns. værdi",
+    "noData": "Intet data",
+    "periodAnswerRate": "Tid Periode",
+    "answerRate": " (Svarrate)",
+    "clickToUpload": "Klik for at uploade",
+    "dragAndDrop": "eller træk og slip",
+    "noStategiesWithoutStatus": "Ingen strategier med statusregistreringer",
+    "chooseStatus": "Vælg statuskategori",
+    "pointInTime": "Tidspunkt",
+    "chooseDate": "Vælg dato",
+    "labelLocation": "Skift værdiplacering",
+    "slantedLabel": "Hæld etiketter på x-aksen",
+    "isAverageScore": "Vis gennemsnitsscore",
+    "isExcludeOnlyOneAnswer": "Udeluk data fra borgere med kun ét svar",
+    "customGuideLabelSwitch": "Brugerdefineret etiket",
+    "customGuideLabel": "Etiket",
+    "multipleQuestionDescription": "Efter at have valgt det første spørgsmål af Likert-type, der skal vises, skal alle andre tilføjede spørgsmål have de samme muligheder.",
+    "dataLabels": {
+      "quantity": "Mængde ({{value}})",
+      "questions": "Spørgsmål",
+      "scores": "Point (gns.)",
+      "choices": "Valg",
+      "periods": "Perioder",
+      "statuses": "Statusser",
+      "registration": "Registreringer",
+      "registrations": "Registreringer ({{value}})",
+      "frequency": "Frekvens",
+      "value": "Værdi(gns.)"
+    },
+    "chartColumns": {
+      "questions": "Spørgsmål",
+      "periods": "Perioder",
+      "answerRates": "Svarrate"
+    }
+  },
+  "timePresets": {
+    "thisWeek": "Denne uge",
+    "lastWeek": "Sidste uge",
+    "thisMonth": "Denne måned",
+    "lastMonth": "Sidste måned",
+    "thisQuarter": "Dette kvartal",
+    "lastQuarter": "Sidste kvartal",
+    "thisYear": "Dette år",
+    "lastYear": "Sidste år",
+    "custom": "Tilpasset",
+    "daily": "Daglig",
+    "weekly": "Ugentlig",
+    "monthly": "Månedlig",
+    "quarterly": "Kvartalsvis",
+    "yeaarly": "Årlig"
+  },
+  "CitizenPage": {
+    "noStrategy": "Ingen tilknyttet strategi",
+    "chooseStrategy": "Vælg strategi",
+    "addStrategyButton": "Tilknyt",
+    "pageNotFound": "Siden ikke fundet",
+    "cantFindCitizen": "Vi kunne ikke finde borgeren",
+    "backButton": "Tilbage",
+    "addTagsButton": "Tilføj tags",
+    "nameTags": "Navn på tag",
+    "noMatchingTags": "Ingen matchende tags",
+    "sendStrategy": "Send spørgeskemaer ({{survey}})",
+    "name": "Navn",
+    "sent": "Sendt",
+    "inactiveCitizen": "Borgeren er ikke aktiv",
+    "submissionCreated": "Besvaresle oprettet",
+    "citizenNoPhoneEmail": "Borger har ikke email/tlf. nr",
+    "surveySent": "Spørgeskemaet blev sendt",
+    "answerButton": "Besvar",
+    "sendButton": "Send",
+    "noData": "Ingen data",
+    "changeTimeInterval": "Ændrer tidsinterval, udsend spørgeskema eller vent på besvarelser",
+    "validatedSurveys": "Validerede spørgskemaer ({{surveys}})",
+    "setTimeIntervalButton": "Sæt tidsinterval",
+    "closeIcon": "Close",
+    "frequentlyUsed": "Ofte anvendt",
+    "startDate": "Startdato",
+    "endDate": "Slutdato",
+    "customize": "Tilpas...",
+    "clear": "Ryd",
+    "apply": "Anvend",
+    "date": "Dato",
+    "dates": "Datoer",
+    "votes": "Stemmer",
+    "choices": "valg",
+    "registration": "Registrering",
+    "note": "Note",
+    "register": "Registrer",
+    "editRegistration": "Rediger registrering",
+    "deleteRegistration": "Slet registrering",
+    "areYouSureDelete": "Er du sikker på, at du vil slette denne registrering?",
+    "createRegMessage": "Lav registreringer eller vælg en anden",
+    "customSurveys": "Egne spørgeskemaer ({{surveys}})"
+  },
+  "validators": {
+    "requiredField": "Feltet er påkrævet",
+    "invalidEmail": "Emailen er ikke gyldig",
+    "invalidPhone": "Telefonnummeret er ikke gyldig",
+    "passwordLength": "Adgangskoden skal være længere end 6 tegn",
+    "passwordMaxLength": "Adgangskoden skal være kortere end 64 tegn",
+    "passwordDigit": "Adgangskoden skal indeholde mindst ét nummer",
+    "passwordUppercase": "Adgangskoden skal indeholde mindst ét stort bogstav",
+    "passwordMismatch": "De indtastede adgangskoder er ikke ens",
+    "futureDate": "Datoen kan ikke være i fremtiden",
+    "invalidDate": "Datoen er ikke gyldig",
+    "requiredDate": "Datoen er påkrævet"
+  },
+  "AnswerSurveyView": {
+    "fieldRequired": "Feltet er påkrævet",
+    "next": "Næste",
+    "answer": "Besvar",
+    "writeYourAnswerHere": "Skriv dit svar her...",
+    "answered": "Besvaret",
+    "continueWithoutSave": "Du er ved at forlade uden at gemme",
+    "areYouSureSave": "Er du sikker på du vil forlade uden at gemme",
+    "thankYouForAnswering": "Tak for besvarelsen.",
+    "wellDone": "Godt klaret!",
+    "ErrorContactSupport": "noget gik galt prøv igen senere. \n Hvis det fortsætter så kontakt daniel@impactly.dk",
+    "success": "Du kan nu lukke vinduet"
+  },
+  "AnalyticsPage": {
+    "add": "Tilføj",
+    "edited": "Ændret {{date}}",
+    "noSROIcalc": "Ingen SROI udregninger",
+    "weHelpYouSetUp": "Vi hjælper dig hele vejen igennem opsætningen",
+    "createSROI": "Opret SROI Udregning",
+    "sroiForm": {
+      "successCreation": "Rapport oprettet",
+      "calculationName": "Udregningens navn",
+      "addOutcome": "Tilføj outcome",
+      "general": {
+        "generalName": "Generel",
+        "generalDescription": "Indsæt generel information og hold musen over for vejledning",
+        "reportNameTitle": "Rapport Navn",
+        "executiveSummaryTitle": "Executive summary",
+        "currencyTitle": "Valuta",
+        "removeImageButton": "Fjern logo",
+        "uploadImageButton": "Upload logo",
+        "uploadImageRequirments": "Maksimal størrelsepå 2mb, i standardformater, JPG, JPEG, PNG, SVG",
+        "logoDefault": "Intet logo uploaded"
+      },
+      "intervention": {
+        "interventionName": "Intervention",
+        "interventionDescription": "Indsæt generel information og hold musen over for vejledning",
+        "interventionNameTitle": "Intervention Navn",
+        "totalCostTitle": "Omkostninger",
+        "participantsTitle": "Deltagere",
+        "businessCaseLengthTitle": "Business case længde",
+        "descriptionTitle": "Beskrivelse",
+        "purposeVisionTitle": "Formål/Vision",
+        "activitiesTitle": "Aktiviteter",
+        "activitiesAutocomplete": {
+          "title": "Tilføj ny aktivitet",
+          "description": "NEED CONTENT",
+          "label": "Aktivitet"
+        },
+        "targetGroup": {
+          "targetGroupName": "Målgruppe",
+          "categoryName": "Kategori",
+          "categoryItems": [
+            "Udsattte børn og unge",
+            "Udsatte voksne",
+            "Voksne med handicap",
+            "Udsatte familier",
+            "Pårørende til udsatte borgere"
+          ],
+          "ageGroupMinTitle": "Aldersgruppe, min",
+          "ageGroupMaxTitle": "Aldersgruppe, max",
+          "descriptionTitle": "Beskrivelse",
+          "riskFactorsTitle": "Risikofaktorer"
+        },
+        "stakeholders": {
+          "stakeholderName": "Interessent {{count}}",
+          "stakeholdersName": "Interessenter",
+          "stakeholderNameTitle": "Interessent navn",
+          "populationTitle": "Population",
+          "changesTitle": "Forandringer",
+          "changesAutocomplete": {
+            "title": "Tilføj en ny ændring",
+            "description": "NEED CONTENT",
+            "label": "ændring"
+          },
+          "addStakeholder": "+ Tilføj interessent",
+          "removeStakeholder": "- Fjern interessenter"
+        },
+        "fundingSource": {
+          "fundingSourceName": "Finansieringskilde",
+          "fundingSourceNameTitle": "Finansieringskilde navn",
+          "proportionTitle": "Andel",
+          "addFundingSource": "+ Tilføj Finansieringskilde",
+          "removeFundingSource": "- Fjerne Finansieringskilde"
+        }
+      },
+      "outcomes": {
+        "outcomeName": "Outcome navn",
+        "outcomeDescription": "Sæt dine outcomes op her, med minimum en social gevinstmodtager og minimum en budgetøkonomisk gevinstmodtager, og hold musen over for vejledning",
+        "outcomeNameTitle": "Outcome navn",
+        "measurementMethodTitle": "Målemetode",
+        "measurementMethodItems": [
+          "Validerede spørgeskemaer",
+          "Egne spørgeskemaer",
+          "Registreringer",
+          "Dataudtræk"
+        ],
+        "outcomeStartTitle": "Outcome start",
+        "outcomeStartItems": [
+          "Periode efter efter aktivitet",
+          "Aktivitetens periode"
+        ],
+        "outcomeDurationTitle": "Outcome længde",
+        "outcomePopulationTitle": "Outcome population",
+        "effectSizeTitle": "Effektstørrelse",
+        "effectTypeTitle": "Effekt Type",
+        "effectTypeItems": ["Personer", "Score"],
+        "sourceTitle": "Kilde",
+        "descriptionTitle": "Beskrivelse",
+        "commentsTitle": "Kommentarer",
+        "comments": {
+          "max": "Kommentarer må højst være 100 tegn lange"
+        },
+        "answerRate": {
+          "typeError": "Svarrate skal være et tal",
+          "min": "Svarrate skal være større end 0",
+          "positive": "Svarrate skal være større end 0",
+          "required": "Svarrate er påkrævet"
+        },
+        "answerRateTitle": "Svarrate",
+        "deleteOutcome": "Slet outcome",
+        "benchmark": {
+          "benchmarkName": "Benchmark (Valgfrit)",
+          "amountTitle": "Størrelse",
+          "methodTitle": "Metode",
+          "methodItems": [
+            "Literaturstudie",
+            "Historisk Data",
+            "Sammenligningsgruppe",
+            "Antagelser"
+          ],
+          "sourceTitle": "Kilde",
+          "source": {
+            "max": "Kilde må højst være 100 tegn lange"
+          },
+          "commentsTitle": "Kommentarer",
+          "benchmarkValue": {
+            "typeError": "Benchmark Værdi skal være et tal",
+            "min": "Benchmark Værdi skal være større end 0",
+            "positive": "Benchmark Værdi skal være større end 0",
+            "required": "Benchmark Værdi er påkrævet"
+          },
+          "benchmarkValueTitle": "Benchmark Værdi"
+        },
+        "sensitivityAnalysis": {
+          "sensitivityAnalysisName": "Følsomhedsanalyse (valgfri)",
+          "deadweightTitle": "Dødvægt",
+          "displacementTitle": "Displacement",
+          "attributionTitle": "Attribuering",
+          "dropOffTitle": "Drop-off",
+          "commentsTitle": "Kommentarer",
+          "comments": {
+            "max": "Kommentarer må højst være 100 tegn lange"
+          }
+        },
+        "beneficiaries": {
+          "beneficiariesName": "Gevinstmodtagere",
+          "beneficiariesTitle": "Gevinstmodtagere",
+          "beneficiariesItems": [
+            "Stat",
+            "Region",
+            "Kommune",
+            "Ekstern organisation",
+            "Intern organisation",
+            "Deltagere",
+            "Pårørende",
+            "Medarbejdere",
+            "Frivillige",
+            "Brugerdefineret"
+          ],
+          "effectTypeTitle": "Effekt type",
+          "effectTypeItems": ["Budgetøkonomisk", "Social", "Ikke-prissat"],
+          "valueUnitTitle": "Værdi/Enhed",
+          "sourceTitle": "Kilde",
+          "commentsTitle": "Kommentarer",
+          "comments": {
+            "max": "Kommentarer må højst være 100 tegn lange"
+          },
+          "addBeneficiary": "+ tilføj gevinstmodtager",
+          "removeBeneficiary": "- Fjerne gevinstmodtager"
+        }
+      },
+      "validation": {
+        "logo": {
+          "format": "Ugyldigt logoformat. Upload venligst en gyldig billedfil",
+          "size": "Logo størrelsen må ikke overstige 2MB",
+          "dimension": "Logoets dimensioner skal være mindre end 200x162."
+        },
+        "reportName": {
+          "required": "Rapportnavn er påkrævet",
+          "max": "Rapportnavn må højst være 30 tegn langt"
+        },
+        "currency": {
+          "required": "Valuta er påkrævet",
+          "oneOf": "Ugyldig valuta valgt"
+        },
+        "executiveSummary": {
+          "required": "Executive resume er påkrævet",
+          "max": "Executive resume må højst være 600 tegn langt"
+        },
+        "intervention": {
+          "interventionName": {
+            "required": "Interventionsnavn er påkrævet",
+            "max": "Interventionsnavn må højst være 30 tegn langt"
+          },
+          "cost": {
+            "required": "Omkostninger er påkrævet",
+            "typeError": "Omkostninger skal være et tal",
+            "positive": "Omkostninger skal være et positivt tal"
+          },
+          "participants": {
+            "required": "Antal deltagere er påkrævet",
+            "integer": "Antal deltagere skal være et helt tal",
+            "positive": "Antal deltagere skal være positivt",
+            "min": "Antal deltagere kan ikke være nul eller negativt"
+          },
+          "businessCaseLength": {
+            "required": "Forretningscasens længde er påkrævet",
+            "integer": "Forretningscasens længde skal være et helt tal",
+            "min": "Forretningscasens længde skal være mellem 1 og 100",
+            "max": "Forretningscasens længde skal være mellem 1 og 100"
+          },
+          "description": {
+            "required": "Beskrivelse er påkrævet",
+            "max": "Beskrivelse må højst være 600 tegn langt"
+          },
+          "purpose": {
+            "required": "Formål er påkrævet",
+            "max": "Formålet må højst være 100 tegn langt"
+          },
+          "activities": {
+            "required": "Aktiviteter er påkrævet",
+            "min": "Mindst en aktivitet er påkrævet",
+            "max": "Kan ikke have mere end 10 aktiviteter"
+          },
+          "targetGroup": {
+            "category": {
+              "required": "Kategori er påkrævet",
+              "oneOf": "Ugyldig kategori valgt"
+            },
+            "ageGroupMin": {
+              "required": "Minimum aldersgruppe er påkrævet",
+              "typeError": "Minimum aldersgruppe skal være et tal",
+              "min": "Minimum aldersgruppe skal være mindst 1",
+              "max": "Minimum aldersgruppe kan ikke overstige 100"
+            },
+            "ageGroupMax": {
+              "required": "Maksimum aldersgruppe er påkrævet",
+              "typeError": "Maksimum aldersgruppe skal være et tal",
+              "min": "Maksimum aldersgruppe skal være mindst 1",
+              "max": "Maksimum aldersgruppe kan ikke overstige 100"
+            },
+            "targetGroupDescription": {
+              "required": "Beskrivelse af målgruppen er påkrævet",
+              "max": "Beskrivelsen af målgruppen må højst være 600 tegn langt"
+            },
+            "riskFactors": {
+              "required": "Risikofaktorer er påkrævet",
+              "max": "Risikofaktorer må højst være 600 tegn langt"
+            }
+          },
+          "stakeholders": {
+            "stakeholderName": {
+              "required": "Interessentnavn er påkrævet",
+              "max": "Interessentnavn må højst være 30 tegn langt"
+            },
+            "stakeholderAmount": {
+              "required": "Antal interessentdeltagere er påkrævet",
+              "integer": "Antal interessentdeltagere skal være et helt tal",
+              "positive": "Antal interessentdeltagere skal være positivt",
+              "min": "Antal interessentdeltagere kan ikke være nul eller negativt"
+            },
+            "changes": {
+              "required": "Ændringer er påkrævet",
+              "min": "Mindst en ændring er påkrævet",
+              "max": "Kan ikke have mere end 10 ændringer"
+            }
+          },
+          "fundingSources": {
+            "fundingSourceName": {
+              "required": "Fundingkilde navn er påkrævet",
+              "max": "Fundingkilde navn må højst være 60 tegn langt"
+            },
+            "proportion": {
+              "required": "Andel er påkrævet",
+              "min": "Andel skal være mindst 0",
+              "max": "Andel kan ikke overstige 100"
+            }
+          }
+        },
+        "outcomes": {
+          "outcomeName": {
+            "required": "Resultatnavn er påkrævet",
+            "max": "Resultatnavn må højst være 30 tegn langt"
+          },
+          "measurementMethod": {
+            "required": "Målemetode er påkrævet",
+            "oneOf": "Ugyldig målemetode"
+          },
+          "outcomeStart": {
+            "required": "Startdato for resultat er påkrævet",
+            "oneOf": "Ugyldig startdato for resultat"
+          },
+          "outcomeDuration": {
+            "required": "Resultatvarighed er påkrævet",
+            "min": "Resultatvarighed skal være større end eller lig med 1",
+            "integer": "Resultatvarighed skal være et helt tal"
+          },
+          "outcomePopulation": {
+            "required": "Resultatbefolkning er påkrævet",
+            "min": "Resultatbefolkning skal være større end eller lig med 1",
+            "integer": "Resultatbefolkning skal være et helt tal"
+          },
+          "effectSize": {
+            "required": "Effektstørrelse er påkrævet",
+            "min": "Effektstørrelse skal være større end 0",
+            "positive": "Effektstørrelse skal være positiv"
+          },
+          "effectType": {
+            "required": "Effekttype er påkrævet",
+            "oneOf": "Effekttypen skal være en af: Budget, Social, Ikke-prissat"
+          },
+          "description": {
+            "required": "Beskrivelse er påkrævet",
+            "max": "Beskrivelse må højst være 100 tegn langt"
+          },
+          "benchmark": {
+            "amount": {
+              "typeError": "Beløb skal være et tal",
+              "min": "Beløb skal være større end 0",
+              "positive": "Beløb skal være større end 0",
+              "required": "Beløb er påkrævet"
+            },
+            "method": {
+              "required": "Metodetype er påkrævet",
+              "oneOf": "Ugyldig metode"
+            },
+            "source": {
+              "max": "Kilde må højst være 100 tegn lang",
+              "required": "Kilde er påkrævet"
+            },
+            "comments": {
+              "max": "Kommentarer må højst være 100 tegn lange",
+              "required": "Kommentarer er påkrævet"
+            }
+          },
+          "sensitivityAnalysis": {
+            "deadweight": {
+              "min": "Dødvægt kan ikke være negativ",
+              "max": "Dødvægt kan ikke være større end 100"
+            },
+            "displacement": {
+              "min": "Fordrivelse kan ikke være negativ",
+              "max": "Fordrivelse kan ikke være større end 100"
+            },
+            "attribution": {
+              "min": "Tilknytning kan ikke være negativ",
+              "max": "Tilknytning kan ikke være større end 100"
+            },
+            "dropOff": {
+              "min": "Drop off kan ikke være negativ",
+              "max": "Drop off kan ikke være større end 100"
+            }
+          },
+          "beneficiaries": {
+            "name": {
+              "required": "Modtager navn er påkrævet",
+              "oneOf": "Ugyldigt modtager navn"
+            },
+            "type": {
+              "required": "Type er påkrævet",
+              "oneOf": "Ugyldig modtager type"
+            },
+            "valueUnit": {
+              "required": "Værdienhed er påkrævet",
+              "typeError": "Værdienhed skal være et tal",
+              "positive": "Værdienhed skal være større end nul",
+              "notOneOf": "Værdienhed kan ikke være nul"
+            },
+            "source": {
+              "required": "Kilde er påkrævet",
+              "max": "Kilde må højst være 100 tegn lang"
+            }
+          }
+        }
+      }
+    },
+    "sroi": {
+      "sroiFlow": {
+        "title": "Create SROI",
+        "backButton": "Go back",
+        "continueWithoutSave": "You are about to leave without saving!",
+        "promptContinue": "Are you sure you want to leave without saving?",
+        "nav": {
+          "general": "General",
+          "intervention": "Intervention",
+          "targetGroup": "Target Group",
+          "stakeholders": "Stakeholders",
+          "fundingSource": "Funding source",
+          "outcomes": "Outcomes",
+          "method": "Method"
+        },
+        "general": {
+          "title": ""
+        },
+        "intervention": {
+          "title": ""
+        },
+        "targetGroup": {
+          "title": ""
+        },
+        "confirmation": {
+          "title": ""
+        }
+      }
+    }
+  },
+  "AnalyticPage": {
+    "noAnalytic": "Intet dokument fundet",
+    "expiredAnalytic": "Rapportdokumentet er udløbet"
+  },
+  "Common": {
+    "DateTime": {
+      "years": "År",
+      "months": "Måneder",
+      "days": "Dage",
+      "Hours": "timer"
+    },
+    "Measurement": {
+      "units": "Enheder",
+      "persons": "personer"
+    },
+    "Adornment": {
+      "maxCharLimit": "max. {{char}} anslag",
+      "maxItems": "maks. {{items}} {{context}} tilladt"
+    },
+    "Chips": {
+      "remove": "Fjerne \"{{name}}\" "
+    }
+  }
+}
